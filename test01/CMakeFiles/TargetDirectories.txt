@@ -1,8 +1,0 @@
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/install/strip.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/install/local.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/install.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/list_install_components.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/rebuild_cache.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/edit_cache.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/qtpixeldemo.dir
-/home/rhythm232/Desktop/QTtest/test01/CMakeFiles/qtpixeldemo_autogen.dir
